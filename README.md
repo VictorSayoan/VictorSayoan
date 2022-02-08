@@ -2,6 +2,7 @@
 
 - 🔭 Estudando Análise de dados
 - 🌱 Estudando Back-End - Django
+- 😄 Pronouns: He/Him 🙍🏻‍♂️
 
 <div align="center">
   <a href="https://github.com/VictorSayoan">
