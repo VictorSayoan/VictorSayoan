@@ -1,6 +1,6 @@
 ### Falaaa! 😁 Eu sou o Victor Sayoan 🕶
 
-- 🔭 Hoje trabalho com análise de dados
+- 🔭 Hoje procuro trabalho como analista de dados
 - 🌱 Estudando Back-End - Django
 
 <div align="center">
