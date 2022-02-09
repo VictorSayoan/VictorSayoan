@@ -1,6 +1,6 @@
 ### Falaaa! 😁 Eu sou o Victor Sayoan 🕶
 
-- 📊 Estudando Análise de dados
+- 📊 Estudando Data Science and Machine Learning
 - 🌱 Estudando Back-End - Django
 - 📚 Estudando Banco de Dados -> MySQL
 - 😄 Pronouns: He/Him 🙍🏻‍♂️
