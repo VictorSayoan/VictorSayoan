@@ -1,8 +1,8 @@
 ### Falaaa! 😁 Eu sou o Victor Sayoan 🕶
 
-- 📊 Estudando Data Science and Machine Learning
-- 🌱 Estudando Back-End - Django
-- 📚 Estudando Banco de Dados -> MySQL
+- 📊 Graduando Engenharia Elétrica - UFCG
+- 🌱 Estudando Sistemas de Potência
+- 📚 Especilaista em Matlab/Simulink
 - 😄 Pronouns: He/Him 🙍🏻‍♂️
 
 <div align="center">
