@@ -2,7 +2,7 @@
 
 - 📊 Graduando Engenharia Elétrica - UFCG
 - 🌱 Especializando-se em Sistemas de Potência
-- 📚 Especilaista em Matlab/Simulink e Python
+- 📚 Especializando-se em Matlab/Simulink e Python
 - 😄 Pronouns: He/Him 🙍🏻‍♂️
 
 <div align="center">
