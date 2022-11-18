@@ -1,7 +1,7 @@
 ### Falaaa! 😁 Eu sou o Victor Sayoan 🕶
 
 - 📊 Graduando Engenharia Elétrica - UFCG
-- 🌱 Estudando Sistemas de Potência
+- 🌱 Especializando-se em Sistemas de Potência
 - 📚 Especilaista em Matlab/Simulink e Python
 - 😄 Pronouns: He/Him 🙍🏻‍♂️
 
