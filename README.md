@@ -10,13 +10,6 @@
 </p>
 
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorSayoan&show_icons=true&count_private=true&hide_border=true&title_color=d2d1ff&icon_color=d2d1ff&text_color=c9d1d9&bg_color=0d1117" alt="Victor Sayoan github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSayoan&layout=compact&hide_border=true&title_color=d2d1ff&text_color=d2d1ff&bg_color=0d1117" />
-</div>
-
-
 <div align="center"> 
 <a href="https://www.instagram.com/victorsaayoan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.youtube.com/channel/UCOqW9NFncq_W_opWQXqC_bw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -27,6 +20,8 @@
  ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![MatLab](https://img.shields.io/badge/-MatLab-0D1117?style=for-the-badge&logo=matlab&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Proteus](https://img.shields.io/badge/-Proteus-0D1117?style=for-the-badge&logo=matlab&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![PowerWorld](https://img.shields.io/badge/-PowerWorld-0D1117?style=for-the-badge&logo=matlab&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
